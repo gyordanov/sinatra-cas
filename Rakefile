@@ -7,10 +7,10 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
     s.name = "sinatra-cas"
-    s.summary = %Q{TODO}
-    s.email = "galin@nabbr.com"
+    s.summary = %Q{CAS Plugin for Sinatra ...}
+    s.email = "gyordanov@gmail.com"
     s.homepage = "http://github.com/gyordanov/sinatra-cas"
-    s.description = "TODO"
+    s.description = "CAS Plugin for Sinatra ..."
     s.authors = ["Galin Yordanov"]
   end
 rescue LoadError

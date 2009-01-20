@@ -1,5 +1,5 @@
 #           NAME: sinatra-cas
-#        VERSION: 0.1.0 (Jan 19, 2008)
+#        VERSION: 0.1.1 (Jan 19, 2008)
 #         AUTHOR: Galin Yordanov <gyordanov@gmail.com> Nabbr Corp
 #    DESCRIPTION: CAS plugin for Sinatra apps
 #  COMPATIBILITY: - Sinatra 0.9.0.2
